@@ -1,6 +1,7 @@
 # Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-And-Optimization
 
 About this Course
+
 This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
 
 After 3 weeks, you will: 
